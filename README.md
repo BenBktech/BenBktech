@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on big NFTs collection projects
 - 📫 How to reach me: BenBk.io
-- :video_camera: I have also a Youtube channel (10K+ subscribers) where I teach Web3.0 development
+- :video_camera: I have also a Youtube channel (11.7K+ subscribers) where I teach Web3.0 development
 
 <!-- <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
