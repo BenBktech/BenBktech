@@ -1,10 +1,7 @@
-### Hi there, I'm Ben 👋
-
+<h1 align="center">Hi 👋, I'm Ben</h1>
 - 🔭 I’m currently working on big NFTs collection projects
 - 📫 How to reach me: BenBk.io
 - :video_camera: I have also a Youtube channel (12K+ subscribers) where I teach Web3.0 development
-
-<h1 align="center">Hi 👋, I'm Ben</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benbktech&label=Profile%20views&color=0e75b6&style=flat" alt="benbktech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benbktech" alt="benbktech" /></a> </p>
