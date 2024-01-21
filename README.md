@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<p>- 🔭 I’m currently working on big NFTs collection projects </p>
-<p>- 📫 How to reach me: BenBk.io </p>
-<p>- :video_camera: I have also a Youtube channel (17K+ subscribers) where I teach Web3.0 development </p>
+📸 Youtuber | 🧙‍ Solidity/Typescript/NextJS | 📚 Trainer/Jury @Alyra School of Blockchain | 🦄 CTO Anim4rt
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benbktech&label=Profile%20views&color=0e75b6&style=flat" alt="benbktech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benbktech" alt="benbktech" /></a> </p>
