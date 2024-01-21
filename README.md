@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
+
 📸 Youtuber | 🧙‍ Solidity/Typescript/NextJS | 📚 Trainer/Jury @Alyra School of Blockchain | 🦄 CTO Anim4rt
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benbktech&label=Profile%20views&color=0e75b6&style=flat" alt="benbktech" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benbktech" alt="benbktech" /></a> </p>
