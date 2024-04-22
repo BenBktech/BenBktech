@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 
-📸 Youtuber | 🧙‍ Solidity/Typescript/NextJS | 📚 Trainer/Jury @Alyra School of Blockchain | 🦄 CTO Anim4rt
+📸 Youtuber | 🧙‍ Solidity/Typescript/NextJS | 📚 Trainer/Jury @Alyra School of Blockchain | 🦄 CTO Anim4rt | 📢 Paragon Node Guardians
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benbktech&label=Profile%20views&color=0e75b6&style=flat" alt="benbktech" /> </p>
 
