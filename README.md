@@ -27,9 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benbktech&show_icons=true&locale=en&layout=compact" alt="benbktech" /></p>
 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BenBktech&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=BenBktech&icon=0&color=0)](https://visitcount.itsvg.in)
 
