@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 
-📸 Youtuber (21K) | 🧙‍ Software Engineer @Resonance.Security | 📚 Trainer/Jury @Alyra School of Blockchain & Blockchain Business School | 📢 Paragon Node Guardians
+📸 Youtuber (21K) | 🧙‍ Software Engineer @ResonanceCybersecurity | 📚 Trainer/Jury @Alyra School of Blockchain & Blockchain Business School | 📢 Paragon Node Guardians
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benbktech&label=Profile%20views&color=0e75b6&style=flat" alt="benbktech" /> </p>
 
