@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benbktech&label=Profile%20views&color=0e75b6&style=flat" alt="benbktech" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BenBktech)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-trophies.vercel.app/?username=BenBktech)
 
 <p align="left"> <a href="https://twitter.com/benbktech" target="blank"><img src="https://img.shields.io/twitter/follow/benbktech?logo=twitter&style=for-the-badge" alt="benbktech" /></a> </p>
 
